@@ -75,7 +75,7 @@ def find_narcissistic(N):
 # Compute the value of pi using the iteration x = x + sin(x)    
 def compute_pi():
     x = 3
-    for i in range(12):
+    while abs(math.pi - x) > 1e-12:
         x += math.sin(x)
 
     return x
