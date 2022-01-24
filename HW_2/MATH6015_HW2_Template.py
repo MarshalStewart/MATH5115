@@ -1,5 +1,5 @@
 # Source code for Assignment #2
-# Name: ***--> YOUR NAME HERE!!!! <--**
+# Name: ***--> Marshal Stewart <--**
 # Required function definitions:
 #
 #    Problem #1: 
