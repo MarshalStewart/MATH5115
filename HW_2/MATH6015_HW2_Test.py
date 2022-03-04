@@ -126,5 +126,3 @@ if __name__ == "__main__":
     filename = input("Enter Filename of the Source Code to Test without the Extension: ")
 
     passed = HW2_Test(filename)
-
-    sys.exit(passed)
